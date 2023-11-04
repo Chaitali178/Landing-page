@@ -1,0 +1,114 @@
+.min-height {
+    min-height: 80vh;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.justify-between {
+    justify-content: space-around;
+}
+
+.flex hr {
+    height: 6cm;
+    position: relative;
+    left: 35px;
+    top: 70px;
+    color: black;
+    width: 2px;
+    border: 0;
+    background: red;
+    padding: 1px;
+}
+
+.mx-auto2 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex2 {
+    display: flex;
+}
+
+.items-center2 {
+    align-items: center;
+}
+
+.justify-between2 {
+    justify-content: space-between;
+}
+
+.right {
+    text-align: right;
+    position: relative;
+    bottom: 15px;
+}
+
+.gmail {
+    text-align: right;
+    position: relative;
+    left: 115px;
+    bottom: 33px;
+}
+
+.bg-text h1,
+h2 {
+    font-size: 40px;
+}
+
+.container2 h1 {
+    position: relative;
+    top: 18px;
+}
+
+.container h1:hover {
+    font-size: 40px;
+}
+
+.box {
+    width: 30%;
+    position: relative;
+    left: 10%;
+}
+
+.box h2 {
+    color: aqua;
+    font-size: 30px;
+}
+
+.box p {
+    font-size: 30px;
+}
+
+.box2 {
+    width: 30%;
+    position: relative;
+    left: 60%;
+    bottom: 460px;
+}
+
+.box2 h2 {
+    color: aqua;
+    font-size: 30px;
+}
+
+.box2 p {
+    font-size: 30px;
+}
+
+.boxpng {
+    width: 250px;
+    position: relative;
+    left: 500px;
+    bottom: 220px;
+}
